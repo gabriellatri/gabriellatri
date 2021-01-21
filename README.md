@@ -12,10 +12,10 @@
 <h4 align="center">
     SOCIAL NETWORKS
 </h4>
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
 <p align="center">
     
-  <a href="https://dev.to/" target="_blank">
+  <a href="https://dev.to/" target="_blank" rel="noopener">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gabriellatri" height="35" width="35" />
   </a>
   <a href="https://twitter.com/interweirdo" target="_blank">
