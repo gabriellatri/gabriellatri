@@ -15,16 +15,16 @@
 
 <p align="center">
     
-  <a href="https://dev.to/" target="_blank" rel="noopener noreferrer">
+  <a href="https://dev.to/">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gabriellatri" height="35" width="35" />
   </a>
-  <a href="https://twitter.com/interweirdo" target="_blank">
+  <a href="https://twitter.com/interweirdo">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="interweirdo" height="35" width="35" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-mariano-47a49071/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-mariano-47a49071/">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabrielmariano" height="35" width="35" />
   </a>
-  <a href="https://www.twitch.tv/" target="_blank">
+  <a href="https://www.twitch.tv/">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="--" height="35" width="35" />
   </a>
 </p>
