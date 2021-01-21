@@ -14,6 +14,7 @@
 </h4>
 
 <p align="center">
+    [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
   <a href="https://dev.to/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gabriellatri" height="35" width="35" />
   </a>
