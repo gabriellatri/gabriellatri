@@ -4,7 +4,7 @@
 
 <p align="center">This is my GitHub page, with projects and repositories that's been done by me until now.</p>
 
-<div align="center" style="border-style: outset;">
+<div align="center" style="border-style: dotted;">
     <br/><img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=gabriellatri&amp;show_icons=true&amp;theme=dracula">
 <br/><br/><img align="center" width="600" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gabriellatri&amp;layout=compact&amp;theme=dracula"><br/><br/>
 </div>
