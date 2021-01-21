@@ -1,10 +1,8 @@
-<center>
-<h1>
+<h1 align="center">
     Welcome to my GitHub page!
 </h1>
-</center>
 
-This is my GitHub page, with projects and repositories that's been done by me until now.
+<p align="center">This is my GitHub page, with projects and repositories that's been done by me until now.</p>
 
 <div align="center" style="border-style: outset;">
     <br/><img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=gabriellatri&amp;show_icons=true&amp;theme=dracula">
