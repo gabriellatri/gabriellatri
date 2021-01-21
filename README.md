@@ -5,10 +5,10 @@
 <p align="center">This is my GitHub page, with projects and repositories that's been done by me until now.</p>
 
 <div align="center" style="border-style: dotted;">
-    <img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=gabriellatri&show_icons=true&theme=dark">
+    <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=gabriellatri&show_icons=true&theme=dark">
     <br/>
     <br/>
-    <img align="center" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellatri&theme=dark">
+    <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellatri&theme=dark">
 </div>
 
 <h4 align="center">
