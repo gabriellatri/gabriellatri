@@ -1,7 +1,6 @@
 <h1 align="center">
     Welcome to my GitHub page!
 </h1>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p align="center">This is my GitHub page, with projects and repositories that's been done by me until now.</p>
 
 <div align="center">
@@ -34,4 +33,3 @@
 ><p align="center">
 >GitHub README.md UNDER MAINTENANCE
 ></p>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="gabriellatri"><a class="LI-simple-link" href='https://br.linkedin.com/in/gabriellatri?trk=profile-badge'>Gabriel Mariano</a></div>
