@@ -1,8 +1,10 @@
 <h1 align="center">
     Welcome to my GitHub page!
 </h1>
-<p align="center">This is my GitHub page, with projects and repositories that's been done by me until now.</p>
+<p align="center">This is my GitHub page, with projects and repositories that's been done by me until now.<br/>
 <img align="center" src="https://komarev.com/ghpvc/?username=gabriellatri"/>
+</p>
+
 
 <div align="center">
     <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=gabriellatri&show_icons=true&theme=dark">
