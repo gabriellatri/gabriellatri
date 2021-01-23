@@ -2,7 +2,7 @@
     Welcome to my GitHub page!
 </h1>
 <p align="center">This is my GitHub page, with projects and repositories that's been done by me until now.</p>
-<img src="https://komarev.com/ghpvc/?username=gabriellatri"/>
+<img style="margin-left: 50px;" src="https://komarev.com/ghpvc/?username=gabriellatri"/>
 
 <div align="center">
     <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=gabriellatri&show_icons=true&theme=dark">
