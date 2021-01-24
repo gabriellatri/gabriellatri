@@ -7,10 +7,12 @@
 
 
 <div align="center">
-    <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=gabriellatri&show_icons=true&theme=dark">
-    <br/>
-    <br/>
-    <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellatri&theme=dark">
+    <table>
+        <tr>
+            <th><img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=gabriellatri&show_icons=true&theme=dark"/></th>
+            <th><img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellatri&theme=dark"/></th>
+        </tr>
+    </table>
 </div>
 
 
