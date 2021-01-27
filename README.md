@@ -10,6 +10,8 @@
     <table>
         <tr>
             <th><img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=gabriellatri&show_icons=true&theme=dark"/></th>
+        </tr>
+        <tr>
             <th><img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellatri&theme=dark"/></th>
         </tr>
     </table>
